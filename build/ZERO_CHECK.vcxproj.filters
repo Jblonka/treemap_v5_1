@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Uni\EffizienteSoftwareC++_WS2023\treemap_v5_1\build\CMakeFiles\9476ce4c94bf057504ce01e893f4d755\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E91C7F94-5C3C-3289-BBC0-BD8C0175EDD5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

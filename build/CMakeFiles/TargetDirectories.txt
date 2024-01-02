@@ -1,0 +1,3 @@
+C:/Uni/EffizienteSoftwareC++_WS2023/treemap_v5_1/build/CMakeFiles/treemap.dir
+C:/Uni/EffizienteSoftwareC++_WS2023/treemap_v5_1/build/CMakeFiles/ALL_BUILD.dir
+C:/Uni/EffizienteSoftwareC++_WS2023/treemap_v5_1/build/CMakeFiles/ZERO_CHECK.dir

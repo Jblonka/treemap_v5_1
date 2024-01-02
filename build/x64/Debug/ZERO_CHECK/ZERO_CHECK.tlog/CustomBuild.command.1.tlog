@@ -1,0 +1,10 @@
+^C:\UNI\EFFIZIENTESOFTWAREC++_WS2023\TREEMAP_V5_1\BUILD\CMAKEFILES\9476CE4C94BF057504CE01E893F4D755\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Uni/EffizienteSoftwareC++_WS2023/treemap_v5_1 -BC:/Uni/EffizienteSoftwareC++_WS2023/treemap_v5_1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Uni/EffizienteSoftwareC++_WS2023/treemap_v5_1/build/A3.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
